@@ -2,13 +2,13 @@
 Moje testerskie portfolio
 
 # O mnie
-- W budowie -
-- 
+W budowie -
+
 # Narzędzia
-- W budowie -
-- 
+W budowie -
+
 # Kursy
-- W budowie -
-- 
+W budowie -
+
 # Autorska dokumentacja testowa
-- W budowie - 
+-> W budowie - 
